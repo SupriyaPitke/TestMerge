@@ -4,8 +4,9 @@
   <_Project>
     <ProjectName val="TestMerge"/>
     <VCProjectID val="0"/>
-    <VCActive val="N"/>
+    <VCActive val="Y"/>
     <WorkOffline val="N"/>
+    <VCProjectName val="."/>
     <SourceDirectory val="Source"/>
     <ExportsDirectory val="Exports"/>
     <GUID val="{58FF137C-EDE8-424B-96D6-3A6296FFD560}"/>
